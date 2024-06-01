@@ -27,5 +27,5 @@ public class ThrowingExceptions {
     }
     //i have to handle this exception because it's a checked exception
     //hna kol wa7da 3malet throw 3l tanya 3shan t-hand the
-    // responsibility bta3t handeling the exception to another class
+    //responsibility bta3t handeling the exception to another class
 }
