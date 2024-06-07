@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e40409c-f287-4eef-9654-0ffb53c1e5fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Examples/src/DiffExamples/WorkingWithFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/ExceptionHandling/CheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/ExceptionHandling/CreatingCustomExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/ExceptionHandling/UncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/Exercises/CalculateAgeOfAnyGivenDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/Exercises/CapitalizeFirstCharacterOfaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/Exercises/MyDateOfBirthUsingLocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/Exercises/PrintArgumentsPassedToMainInCapitalLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/Exercises/ReturningNegativeOfaNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/Exercises/SplitStringIntoWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/Exercises/SumOfProgramArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/GeneralExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/TestArguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/TestArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/VarKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zeyadayman/WrapperClass.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gj1BN53zfSibNoliVTRYtLwZ3y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculateAgeOfAnyGivenDate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CapitalizeFirstCharacterOfaString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreatingCustomExceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandeling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Foo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestStringInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyDateOfBirthUsingLocalDate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintArgumentsPassedToMainInCapitalLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveStringSpaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReturningNegativeOfaNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SplitStringIntoWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfProgramArguments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestArguments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowingExceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WorkingWithBigDecimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WorkingWithFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperClass.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;G:/cummunication and computer engineering/courses/Java Programming/AmigosCode exercises/first start/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zeyadayman.ExceptionHandeling" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NewClass">
+    <configuration name="CalculateAgeOfAnyGivenDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeyadayman.Exercises.CalculateAgeOfAnyGivenDate" />
+      <module name="first start" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeyadayman.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDateOfBirthUsingLocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeyadayman.Exercises.MyDateOfBirthUsingLocalDate" />
+      <module name="first start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeyadayman.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeyadayman.WorkingWithObjects.NewClass" />
+      <module name="first start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeyadayman.WorkingWithObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfProgramArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeyadayman.Exercises.SumOfProgramArguments" />
+      <module name="first start" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3 4 5 oop ziad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeyadayman.Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeyadayman.WorkingWithFiles" />
+      <module name="first start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeyadayman.WorkingWithObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NewClass" />
+      <item itemvalue="Application.WorkingWithFiles" />
+      <item itemvalue="Application.SumOfProgramArguments" />
+      <item itemvalue="Application.CalculateAgeOfAnyGivenDate" />
+      <item itemvalue="Application.MyDateOfBirthUsingLocalDate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewClass" />
+        <item itemvalue="Application.WorkingWithFiles" />
+        <item itemvalue="Application.SumOfProgramArguments" />
+        <item itemvalue="Application.CalculateAgeOfAnyGivenDate" />
+        <item itemvalue="Application.MyDateOfBirthUsingLocalDate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e40409c-f287-4eef-9654-0ffb53c1e5fe" name="Changes" comment="" />
+      <created>1716196039839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716196039839</updated>
+      <workItem from="1716196041280" duration="265000" />
+      <workItem from="1716196325281" duration="2704000" />
+      <workItem from="1716208352295" duration="11652000" />
+      <workItem from="1716408716833" duration="22000" />
+      <workItem from="1716408757515" duration="439000" />
+      <workItem from="1716469845315" duration="5964000" />
+      <workItem from="1716551968820" duration="8867000" />
+      <workItem from="1716732849338" duration="9973000" />
+      <workItem from="1716846487959" duration="2049000" />
+      <workItem from="1716910223825" duration="24455000" />
+      <workItem from="1717203208020" duration="1055000" />
+      <workItem from="1717213492087" duration="2492000" />
+      <workItem from="1717218439394" duration="485000" />
+      <workItem from="1717256719924" duration="1349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
