@@ -1,1 +1,1 @@
-# AmogosCode Java-Master-Class Exercises and Programs
+# AmogosCode Java Master Class Exercises
