@@ -1,1 +1,1 @@
-# AmogosCode Java Master Class Exercises
+# AmigosCode Java Master Class Exercises
