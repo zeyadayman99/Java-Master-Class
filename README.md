@@ -6,6 +6,10 @@ Welcome to the Java Master Class repository! This repository contains exercises 
 
 Java Bootcamp curriculum to help you become a Java Software Engineer.
 
+## Completion Progress
+
+![80%](https://progress-bar.dev/80/)
+
 ## Tech Stack Used In This Course
 
 - ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) Java
