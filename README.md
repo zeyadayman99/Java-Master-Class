@@ -43,3 +43,7 @@ Java Bootcamp curriculum to help you become a Java Software Engineer.
 ## Repository Structure
 
 This repository is structured to mirror the sections and modules of the course. Each directory contains exercises, examples, and projects that correspond to the topics covered.
+
+## Course Link
+
+https://www.amigoscode.com/courses/java-master-class
