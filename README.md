@@ -8,12 +8,12 @@ Java Bootcamp curriculum to help you become a Java Software Engineer.
 
 ## Tech Stack Used In This Course
 
-- ![Java](path/to/java-logo.png) Java
-- ![Git](path/to/git-logo.png) Git
-- ![Terminal](path/to/terminal-logo.png) Terminal
-- ![IntelliJ IDEA](path/to/intellij-logo.png) IntelliJ IDEA
-- ![Spring](path/to/spring-logo.png) Spring
-- ![Spring Boot](path/to/spring-boot-logo.png) Spring Boot
+- ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) Java
+- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git
+- ![Terminal](https://www.vectorlogo.zone/logos/gnome/gnome-icon.svg) Terminal
+- ![IntelliJ IDEA](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg) IntelliJ IDEA
+- ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) Spring
+- ![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) Spring Boot
 
 ## Topics Covered
 
