@@ -18,7 +18,7 @@ Java Bootcamp curriculum to help you become a Java Software Engineer.
 - ![IntelliJ IDEA](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg) IntelliJ IDEA
 - ![Maven](https://icon-icons.com/downloadimage.php?id=130397&root=2107/PNG/64/&file=file_type_maven_icon_130397.png) Maven
 - ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) Spring
-- ![Spring Boot](https://www.amigoscode.com/assets/tech-stack/spring-boot.png) Spring Boot
+- ![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) Spring Boot
 
 ## Topics Covered
 
