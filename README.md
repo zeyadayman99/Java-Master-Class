@@ -14,10 +14,10 @@ Java Bootcamp curriculum to help you become a Java Software Engineer.
 
 - ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) Java
 - ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git
-- ![Terminal](https://www.iconfinder.com/icons/8666579/download/svg/4096) Terminal
+- ![Terminal](https://www.iconfinder.com/icons/9081562/download/svg/4096) Terminal
 - ![IntelliJ IDEA](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg) IntelliJ IDEA
 - ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) Spring
-- ![Spring Boot](https://github.com/simple-icons/simple-icons/blob/master/icons/springboot.svg) Spring Boot
+- ![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) Spring Boot
 
 ## Topics Covered
 
