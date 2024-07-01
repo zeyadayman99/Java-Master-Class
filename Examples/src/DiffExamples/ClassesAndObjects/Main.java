@@ -1,7 +1,10 @@
 package DiffExamples.ClassesAndObjects;
 
 public class Main {
+    public static int count = 0;
     public static void main(String[] args) {
+        StaticBlock block = new StaticBlock();
+
         Cat cat = new Cat("joule", 2);
         System.out.println(cat);
 
