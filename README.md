@@ -35,6 +35,7 @@ Java Bootcamp curriculum to help you become a Java Software Engineer.
 - **Dependency Injection and SOLID Principles**
 - **Data Structures: Arrays, Lists, Maps**
 - **Generics and Java Streams**
+- **Threads and Runnable**
 - **Maven Build Tool**
 - **Testing with JUnit**
 - **Spring Boot Framework**
