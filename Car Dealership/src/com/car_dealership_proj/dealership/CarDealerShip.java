@@ -3,15 +3,18 @@ import java.util.ArrayList;
 public class CarDealerShip {
     private String name;
     private ArrayList<Car> cars;
+    public static int num_dealerships = 0;
 
     public CarDealerShip(String name) {
         this.name = name;
         setCars(null);
+        num_dealerships++;
     }
 
     public CarDealerShip(String name, ArrayList<Car> cars) {
         this.name = name;
         this.cars = cars;
+        num_dealerships++;
     }
 
     public String getName() {
@@ -42,5 +45,8 @@ public class CarDealerShip {
                 return car;
         }
         return new Car("N/A", 0.0, null);
+    }
+    public static void getNumOfDealerships(){
+        System.out.println(num_dealerships);
     }
 }

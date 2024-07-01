@@ -16,8 +16,11 @@ public class Main {
         cars.add(lexus_lxc);
         cars.add(corrola);
 
+        //static members (fields and methods) can only be accessed using the class name
+        //as they belong to the class itself not the instances from it
+        CarDealerShip.getNumOfDealerships();
         CarDealerShip newHorizon = new CarDealerShip("New Horizon dealership", cars);
-
+        CarDealerShip.getNumOfDealerships();
         int num_of_cars = newHorizon.numberOfCars();
         System.out.println("number of dealership cars = " + num_of_cars);
         System.out.println("Enter Manufacturer name you want to search for: ");
