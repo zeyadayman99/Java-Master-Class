@@ -8,7 +8,7 @@ Java Bootcamp curriculum to help you become a Java Software Engineer.
 
 ## Completion Progress
 
-![90%](https://progress-bar.dev/90/)
+![100%](https://progress-bar.dev/100/)
 
 ## Tech Stack Used In This Course
 
